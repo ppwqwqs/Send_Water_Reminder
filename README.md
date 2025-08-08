@@ -1,2 +1,1 @@
-# Send_Water_Reminder
-This is a project that reminding your friend drinking water at regular intervals.
+# 这是一个提醒xb小可爱按时喝水的项目
